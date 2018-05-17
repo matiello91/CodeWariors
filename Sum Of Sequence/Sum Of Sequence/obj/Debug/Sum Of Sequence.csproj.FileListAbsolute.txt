@@ -1,0 +1,7 @@
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\Sum Of Sequence\bin\Debug\Sum Of Sequence.exe.config
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\Sum Of Sequence\bin\Debug\Sum Of Sequence.exe
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\Sum Of Sequence\bin\Debug\Sum Of Sequence.pdb
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\Sum Of Sequence\obj\Debug\Sum Of Sequence.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\Sum Of Sequence\obj\Debug\Sum Of Sequence.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\Sum Of Sequence\obj\Debug\Sum Of Sequence.exe
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\Sum Of Sequence\obj\Debug\Sum Of Sequence.pdb
