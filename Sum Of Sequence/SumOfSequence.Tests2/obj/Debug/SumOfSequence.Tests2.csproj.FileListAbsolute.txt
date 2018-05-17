@@ -1,0 +1,12 @@
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\bin\Debug\SumOfSequence.Tests2.dll
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\bin\Debug\SumOfSequence.Tests2.pdb
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\bin\Debug\nunit.framework.dll
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\bin\Debug\Sum Of Sequence.exe
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\bin\Debug\Sum Of Sequence.pdb
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\bin\Debug\Sum Of Sequence.exe.config
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\bin\Debug\nunit.framework.xml
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\obj\Debug\SumOfSequence.Tests2.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\obj\Debug\SumOfSequence.Tests2.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\obj\Debug\SumOfSequence.Tests2.csproj.CopyComplete
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\obj\Debug\SumOfSequence.Tests2.dll
+C:\WORK SPACE\CodeWariors\CodeWars - Git\Sum Of Sequence\SumOfSequence.Tests2\obj\Debug\SumOfSequence.Tests2.pdb
