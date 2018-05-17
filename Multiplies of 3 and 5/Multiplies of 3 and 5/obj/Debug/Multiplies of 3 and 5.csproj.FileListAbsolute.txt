@@ -1,0 +1,7 @@
+C:\WORK SPACE\CodeWariors\Multiplies of 3 and 5\Multiplies of 3 and 5\bin\Debug\Multiplies of 3 and 5.exe.config
+C:\WORK SPACE\CodeWariors\Multiplies of 3 and 5\Multiplies of 3 and 5\bin\Debug\Multiplies of 3 and 5.exe
+C:\WORK SPACE\CodeWariors\Multiplies of 3 and 5\Multiplies of 3 and 5\bin\Debug\Multiplies of 3 and 5.pdb
+C:\WORK SPACE\CodeWariors\Multiplies of 3 and 5\Multiplies of 3 and 5\obj\Debug\Multiplies of 3 and 5.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\Multiplies of 3 and 5\Multiplies of 3 and 5\obj\Debug\Multiplies of 3 and 5.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\Multiplies of 3 and 5\Multiplies of 3 and 5\obj\Debug\Multiplies of 3 and 5.exe
+C:\WORK SPACE\CodeWariors\Multiplies of 3 and 5\Multiplies of 3 and 5\obj\Debug\Multiplies of 3 and 5.pdb

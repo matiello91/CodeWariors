@@ -1,0 +1,9 @@
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The DigitTests\bin\Debug\Count The DigitTests.dll
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The DigitTests\bin\Debug\Count The DigitTests.pdb
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The DigitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The DigitTests\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The DigitTests\obj\Debug\Count The DigitTests.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The DigitTests\obj\Debug\Count The DigitTests.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The DigitTests\obj\Debug\Count The DigitTests.csproj.CopyComplete
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The DigitTests\obj\Debug\Count The DigitTests.dll
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The DigitTests\obj\Debug\Count The DigitTests.pdb

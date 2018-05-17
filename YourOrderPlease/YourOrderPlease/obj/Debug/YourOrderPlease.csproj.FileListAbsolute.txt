@@ -1,0 +1,7 @@
+C:\WORK SPACE\CodeWariors\YourOrderPlease\YourOrderPlease\obj\Debug\YourOrderPlease.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\YourOrderPlease\YourOrderPlease\obj\Debug\YourOrderPlease.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\YourOrderPlease\YourOrderPlease\bin\Debug\YourOrderPlease.exe.config
+C:\WORK SPACE\CodeWariors\YourOrderPlease\YourOrderPlease\bin\Debug\YourOrderPlease.exe
+C:\WORK SPACE\CodeWariors\YourOrderPlease\YourOrderPlease\bin\Debug\YourOrderPlease.pdb
+C:\WORK SPACE\CodeWariors\YourOrderPlease\YourOrderPlease\obj\Debug\YourOrderPlease.exe
+C:\WORK SPACE\CodeWariors\YourOrderPlease\YourOrderPlease\obj\Debug\YourOrderPlease.pdb

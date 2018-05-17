@@ -1,0 +1,7 @@
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - Clerk\bin\Debug\Vasya - Clerk.exe.config
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - Clerk\bin\Debug\Vasya - Clerk.exe
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - Clerk\bin\Debug\Vasya - Clerk.pdb
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - Clerk\obj\Debug\Vasya - Clerk.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - Clerk\obj\Debug\Vasya - Clerk.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - Clerk\obj\Debug\Vasya - Clerk.exe
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - Clerk\obj\Debug\Vasya - Clerk.pdb

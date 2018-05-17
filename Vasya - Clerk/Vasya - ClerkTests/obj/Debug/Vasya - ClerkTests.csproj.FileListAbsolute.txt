@@ -1,0 +1,17 @@
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Vasya - ClerkTests.dll
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Vasya - ClerkTests.pdb
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Vasya - Clerk.exe
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Vasya - Clerk.pdb
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Vasya - Clerk.exe.config
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\obj\Debug\Vasya - ClerkTests.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\obj\Debug\Vasya - ClerkTests.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\obj\Debug\Vasya - ClerkTests.csproj.CopyComplete
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\obj\Debug\Vasya - ClerkTests.dll
+C:\WORK SPACE\CodeWariors\Vasya - Clerk\Vasya - ClerkTests\obj\Debug\Vasya - ClerkTests.pdb

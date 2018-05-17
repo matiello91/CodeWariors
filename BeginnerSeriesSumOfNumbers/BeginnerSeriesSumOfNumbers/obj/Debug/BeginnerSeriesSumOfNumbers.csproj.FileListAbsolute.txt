@@ -1,0 +1,7 @@
+C:\WORK SPACE\CodeWariors\BeginnerSeriesSumOfNumbers\BeginnerSeriesSumOfNumbers\bin\Debug\BeginnerSeriesSumOfNumbers.exe.config
+C:\WORK SPACE\CodeWariors\BeginnerSeriesSumOfNumbers\BeginnerSeriesSumOfNumbers\bin\Debug\BeginnerSeriesSumOfNumbers.exe
+C:\WORK SPACE\CodeWariors\BeginnerSeriesSumOfNumbers\BeginnerSeriesSumOfNumbers\bin\Debug\BeginnerSeriesSumOfNumbers.pdb
+C:\WORK SPACE\CodeWariors\BeginnerSeriesSumOfNumbers\BeginnerSeriesSumOfNumbers\obj\Debug\BeginnerSeriesSumOfNumbers.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\BeginnerSeriesSumOfNumbers\BeginnerSeriesSumOfNumbers\obj\Debug\BeginnerSeriesSumOfNumbers.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\BeginnerSeriesSumOfNumbers\BeginnerSeriesSumOfNumbers\obj\Debug\BeginnerSeriesSumOfNumbers.exe
+C:\WORK SPACE\CodeWariors\BeginnerSeriesSumOfNumbers\BeginnerSeriesSumOfNumbers\obj\Debug\BeginnerSeriesSumOfNumbers.pdb

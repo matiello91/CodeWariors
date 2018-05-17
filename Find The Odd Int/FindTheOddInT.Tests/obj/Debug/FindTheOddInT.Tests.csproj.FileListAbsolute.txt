@@ -1,0 +1,12 @@
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\obj\Debug\FindTheOddInT.Tests.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\obj\Debug\FindTheOddInT.Tests.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\bin\Debug\FindTheOddInT.Tests.dll
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\bin\Debug\FindTheOddInT.Tests.pdb
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\bin\Debug\Find The Odd Int.exe
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\bin\Debug\nunit.framework.dll
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\bin\Debug\Find The Odd Int.pdb
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\bin\Debug\Find The Odd Int.exe.config
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\bin\Debug\nunit.framework.xml
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\obj\Debug\FindTheOddInT.Tests.csproj.CopyComplete
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\obj\Debug\FindTheOddInT.Tests.dll
+C:\WORK SPACE\CodeWariors\Find The Odd Int\FindTheOddInT.Tests\obj\Debug\FindTheOddInT.Tests.pdb

@@ -1,0 +1,12 @@
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\bin\Debug\Kata.tests.dll
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\bin\Debug\Kata.tests.pdb
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\obj\Debug\Kata.tests.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\obj\Debug\Kata.tests.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\obj\Debug\Kata.tests.dll
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\obj\Debug\Kata.tests.pdb
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\bin\Debug\nunit.framework.dll
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\bin\Debug\Round To The Next Multiply by 5.exe
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\bin\Debug\Round To The Next Multiply by 5.pdb
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\bin\Debug\Round To The Next Multiply by 5.exe.config
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\bin\Debug\nunit.framework.xml
+C:\WORK SPACE\CodeWariors\Round To The Next Multiply by 5\Kata.tests\obj\Debug\Kata.tests.csproj.CopyComplete

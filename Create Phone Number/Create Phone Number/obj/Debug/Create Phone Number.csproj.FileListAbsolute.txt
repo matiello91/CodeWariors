@@ -1,0 +1,7 @@
+C:\WORK SPACE\CodeWariors\Create Phone Number\Create Phone Number\bin\Debug\Create Phone Number.exe.config
+C:\WORK SPACE\CodeWariors\Create Phone Number\Create Phone Number\bin\Debug\Create Phone Number.exe
+C:\WORK SPACE\CodeWariors\Create Phone Number\Create Phone Number\bin\Debug\Create Phone Number.pdb
+C:\WORK SPACE\CodeWariors\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.exe
+C:\WORK SPACE\CodeWariors\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.pdb

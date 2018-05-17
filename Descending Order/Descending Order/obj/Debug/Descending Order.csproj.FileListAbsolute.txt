@@ -1,0 +1,7 @@
+C:\WORK SPACE\CodeWariors\Descending Order\Descending Order\bin\Debug\Descending Order.exe.config
+C:\WORK SPACE\CodeWariors\Descending Order\Descending Order\bin\Debug\Descending Order.exe
+C:\WORK SPACE\CodeWariors\Descending Order\Descending Order\bin\Debug\Descending Order.pdb
+C:\WORK SPACE\CodeWariors\Descending Order\Descending Order\obj\Debug\Descending Order.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\Descending Order\Descending Order\obj\Debug\Descending Order.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\Descending Order\Descending Order\obj\Debug\Descending Order.exe
+C:\WORK SPACE\CodeWariors\Descending Order\Descending Order\obj\Debug\Descending Order.pdb

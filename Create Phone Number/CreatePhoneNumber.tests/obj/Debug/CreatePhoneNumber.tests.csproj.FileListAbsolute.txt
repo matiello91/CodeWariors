@@ -1,0 +1,12 @@
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\bin\Debug\CreatePhoneNumber.tests.dll
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\bin\Debug\CreatePhoneNumber.tests.pdb
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\bin\Debug\Create Phone Number.exe
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\bin\Debug\nunit.framework.dll
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\bin\Debug\Create Phone Number.pdb
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\bin\Debug\Create Phone Number.exe.config
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\bin\Debug\nunit.framework.xml
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\obj\Debug\CreatePhoneNumber.tests.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\obj\Debug\CreatePhoneNumber.tests.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\obj\Debug\CreatePhoneNumber.tests.csproj.CopyComplete
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\obj\Debug\CreatePhoneNumber.tests.dll
+C:\WORK SPACE\CodeWariors\Create Phone Number\CreatePhoneNumber.tests\obj\Debug\CreatePhoneNumber.tests.pdb

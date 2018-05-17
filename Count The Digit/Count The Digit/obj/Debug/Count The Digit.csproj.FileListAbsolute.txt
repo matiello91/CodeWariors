@@ -1,0 +1,7 @@
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The Digit\obj\Debug\Count The Digit.csprojResolveAssemblyReference.cache
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The Digit\obj\Debug\Count The Digit.csproj.CoreCompileInputs.cache
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The Digit\bin\Debug\Count The Digit.exe.config
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The Digit\bin\Debug\Count The Digit.exe
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The Digit\bin\Debug\Count The Digit.pdb
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The Digit\obj\Debug\Count The Digit.exe
+C:\WORK SPACE\CodeWariors\Count The Digit\Count The Digit\obj\Debug\Count The Digit.pdb
